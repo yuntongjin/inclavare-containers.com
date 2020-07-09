@@ -1,0 +1,44 @@
+# Links in footer
+
+[[links]]
+	category = "Social Media"
+	link_arr = [
+		["Zhihu", 'https://zhuanlan.zhihu.com/sofastack'],
+		["Weibo", 'https://weibo.com/sofastack'],
+		["Twitter", "https://twitter.com/sofastack_io"]
+	]
+
+[[links]]
+	category = "Get Involved"
+	link_arr = [
+		["Feedback", 'https://github.com/alibaba/inclavare-containers/issues'],
+		["Community","https://github.com/alibaba/inclavare-containers/community"],
+		["Wiki","https://github.com/alibaba/inclavare-containers/wiki"],
+		["Email","mailto:yuntongjin@gmail.com"]
+	]
+
+[[links]]
+	category = "Other Community Project"
+	link_arr = [
+		["Alibaba Cloud Linux", 'https://ant.design/'],
+		["Dragonwell", 'https://eggjs.org/'],
+		["Diagnose-tools", 'https://sqlflow.org'],
+	]
+
+[[links]]
+        category = "Copyright©Inclavare 2020 All rights reserved"
+        link_arr = [
+                ["Code of Conduct", '/coc/'],
+                ["Brand ", '/branding/'],
+                [" Private Policy", '/privacy/'],
+        ]
+
+# qrcode
+[[qrcode]]
+	img = "img/qrcode/qrcode_1.png"
+	description = "Wechat Official Account"
+
+[[qrcode]]
+	img = "img/qrcode/qrcode_2.png"
+	description = "DingTalk Group"
+

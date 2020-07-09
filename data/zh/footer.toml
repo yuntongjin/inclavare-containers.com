@@ -1,0 +1,42 @@
+# Links in footer
+
+[[links]]
+	category = "社交媒体"
+	link_arr = [
+		["知乎专栏", 'https://zhuanlan.zhihu.com/sofastack'],
+		["新浪微博", 'https://weibo.com/sofastack'],
+		["Twitter", "https://twitter.com/sofastack_io"]
+	]
+
+[[links]]
+	category = "参与进来"
+	link_arr = [
+		["反馈", 'https://github.com/alibaba/inclavare-containers/issues/new'],
+		["社区","https://github.com/alibaba/inclavare-containers/community"],
+		["Wiki","https://github.com/alibaba/inclavare-containers/wiki"],
+		["Email","mailto:yuntongjin@gmail.com"],
+	]
+
+[[links]]
+	category = "社区其他开源项目"
+	link_arr = [
+		["Alibaba Cloud Linux", 'https://ant.design/'],
+		["Dragonwell ", 'https://eggjs.org/'],
+		["Diagnose-tools", 'https://sqlflow.org'],
+	]
+
+[[links]]
+	category = "版权所有©Inclavare 2020 保留一切权利"
+	link_arr = [
+		["社区行为规范", '/coc/'],
+		["品牌 ", '/branding/'],
+		["隐私政策", '/privacy/'],
+	]
+
+[[qrcode]]
+	img = "img/qrcode/qrcode_1.png"
+	description = "微信公众号"
+
+[[qrcode]]
+	img = "img/qrcode/qrcode_2.png"
+	description = "钉钉群"

@@ -1,0 +1,37 @@
+[slogan]
+	title = "云原生机密计算容器"
+	description = "面向机密计算场景的开源容器运行时技术栈。 Inclavare，是Enclave一词的拉丁语词源，读音是[ˈinklɑveə] (因克拉威尔)。"
+	quick_start_text = "快速开始"
+	quick_start_link = "https://github.com/alibaba/inclavare-containers"
+	github_link = "https://github.com/alibaba/inclavare-containers"
+
+[[feature]]
+	title = "开放"
+	description = "技术栈全面开源共建、 保持社区中立、兼容社区 兼容开源生态，组件可插拔"
+	img = "img/home/feat-open.png"
+[[feature]]
+	title = "机密"
+	description = "包含构建金融级云原生架构所需的各个组件，让用户更加专注于业务开发，满足用户场景的现状和未来需求，经历过大规模场景的锤炼，特别是严苛的金融场景"
+	img = "img/home/feat-financial-level.png"
+[[feature]]
+	title = "云原生"
+	description = "基于 云原生应用"
+	img = "img/home/feat-cloud-native.png"
+
+[[charpter_description]]
+	title = "项目架构"
+	description = "其中 Occlum：由蚂蚁安全计算团队自研的实现了内存安全的多进程 library OS（rune 的默认 enclave runtime） Dragonwell：由阿里编译器团队定制的 LTS OpenJDK 发行版本（后续会提供 Golang 的支持） Graphene：基于 Intel SGX（Software Guard Extensions）技术并可以运行未经修改程序的开源 library OS（阿里云安全团队合作贡献 Golang 支持） enclave-device-plugin：由阿里云容器服务团队和蚂蚁金服安全计算团队针对 Enclave 硬件技术联合开发的 Kubernetes Device Plugin。"
+	img = "img/home/Inclavare_Containers.png"
+	img_width = "530px"
+
+[[charpter_description_1]]
+	title = "与Kubernetes对接"
+	description = "其中 shim-rune 是用来连接containerd 和 rune, 除了常用的shim功能之外，针对机密容器它还需要处理机密签名和管理。"
+	img = "img/home/shim-rune.png"
+	img_width = "530px"
+
+[cloud_native]
+	title = "云原生架构"
+	img = "img/home/cd-cloud-native-architecture.png"
+	img_width = "530px"
+

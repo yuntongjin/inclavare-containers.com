@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SOFA Weekly on SOFAStack</title>
+    <link>/tags/sofa-weekly/</link>
+    <description>Recent content in SOFA Weekly on SOFAStack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 12 Jun 2020 15:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/sofa-weekly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SOFA Weekly | 绝妙的机会与 SOFAStack 一起玩、社区直播预告</title>
+      <link>/blog/sofa-weekly-20200612/</link>
+      <pubDate>Fri, 12 Jun 2020 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200612/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | MOSN 发版、Service Mesh 相关文章整理、社区直播预告</title>
+      <link>/blog/sofa-weekly-20200605/</link>
+      <pubDate>Fri, 05 Jun 2020 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200605/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | Service Mesh 系列直播回顾、SOFARPC 剖析回顾</title>
+      <link>/blog/sofa-weekly-20200529/</link>
+      <pubDate>Fri, 29 May 2020 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200529/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | Occlum 发布、技术直播回顾&amp;预告</title>
+      <link>/blog/sofa-weekly-20200522/</link>
+      <pubDate>Fri, 22 May 2020 17:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200522/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | SOFABoot&amp;SOFAHessian 发布、5/21 社区直播预告</title>
+      <link>/blog/sofa-weekly-20200515/</link>
+      <pubDate>Fri, 15 May 2020 17:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200515/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | MOSN&amp;amp;SOFARPC 发布、社区活动报名</title>
+      <link>/blog/sofa-weekly-20200508/</link>
+      <pubDate>Fri, 08 May 2020 17:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200508/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | Service Mesh 系列直播预告、Seata 发布</title>
+      <link>/blog/sofa-weekly-20200424/</link>
+      <pubDate>Fri, 24 Apr 2020 18:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200424/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | SOFATracer 直播预告、SOFAJRaft 组件发布</title>
+      <link>/blog/sofa-weekly-20200417/</link>
+      <pubDate>Fri, 17 Apr 2020 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200417/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | SOFATracer 直播预告、SOFARegistry 解析系列合集、线上直播回顾合集</title>
+      <link>/blog/sofa-weekly-20200410/</link>
+      <pubDate>Fri, 10 Apr 2020 17:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200410/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | MOSN 直播预告 &amp; 发布更新、Service Mesh 落地实践解析合辑</title>
+      <link>/blog/sofa-weekly-20200403/</link>
+      <pubDate>Fri, 03 Apr 2020 18:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200403/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | MOSN 直播预告、本周直播回顾整理、SOFARegistry 发布</title>
+      <link>/blog/sofa-weekly-0327/</link>
+      <pubDate>Fri, 27 Mar 2020 17:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-0327/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | MOSN 直播预告、SOFAArk&amp;SOFATracer 解析文章合集</title>
+      <link>/blog/sofa-weekly-20200320/</link>
+      <pubDate>Fri, 20 Mar 2020 16:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200320/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 3/26 直播预告、多个组件发布、云原生团队校招社招信息汇总</title>
+      <link>/blog/sofa-weekly-20200313/</link>
+      <pubDate>Fri, 13 Mar 2020 16:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200313/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | SOFARegistry 发版以及源码系列合辑、SOFAArk 发版、3/12直播预告</title>
+      <link>/blog/sofa-weekly-20200306/</link>
+      <pubDate>Fri, 06 Mar 2020 16:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200306/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | MOSN 发布、直播系列整理、0312直播预告</title>
+      <link>/blog/sofa-weekly-20200228/</link>
+      <pubDate>Fri, 28 Feb 2020 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200228/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 3/12直播预告、SOFARPC、SOFABoot 组件发布</title>
+      <link>/blog/sofa-weekly-20200221/</link>
+      <pubDate>Fri, 21 Feb 2020 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200221/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 2/13直播回顾、3/12直播预告、SOFATracer 发版</title>
+      <link>/blog/sofa-weekly-20200214/</link>
+      <pubDate>Fri, 14 Feb 2020 16:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200214/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | Service Mesh 落地系列文章、2/13直播预告</title>
+      <link>/blog/sofa-weekly-20200207/</link>
+      <pubDate>Fri, 07 Feb 2020 17:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200207/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title> SOFA Weekly | 2.13直播预告、KubeCon NA2019 回顾</title>
+      <link>/blog/sofa-weekly-20200117/</link>
+      <pubDate>Fri, 17 Jan 2020 16:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200117/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | SOFABoot 发版、直播回顾、SOFAArkLab共建启动</title>
+      <link>/blog/sofa-weekly-20200110/</link>
+      <pubDate>Fri, 10 Jan 2020 16:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200110/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 1.9直播预告、MOSN 发版、Saga 状态机设计器视频教程</title>
+      <link>/blog/sofa-weekly-20200103/</link>
+      <pubDate>Fri, 03 Jan 2020 16:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20200103/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 明日活动信息、社区方案上线、落地系列阅读</title>
+      <link>/blog/sofa-weekly-20191227/</link>
+      <pubDate>Fri, 27 Dec 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20191227/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | MOSN 配置文档、SOFABolt 等组件发布、社区活动预告</title>
+      <link>/blog/sofa-weekly-20191220/</link>
+      <pubDate>Fri, 20 Dec 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20191220/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>活动报名、本周 QA、组件发布 | SOFA Weekly</title>
+      <link>/blog/sofa-weekly-20191213/</link>
+      <pubDate>Fri, 13 Dec 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20191213/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【12/2 - 12/6】</title>
+      <link>/blog/sofa-weekly-20191206/</link>
+      <pubDate>Fri, 06 Dec 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20191206/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【11/25 - 11/29】</title>
+      <link>/blog/sofa-weekly-20191129/</link>
+      <pubDate>Fri, 29 Nov 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20191129/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【11/18 - 11/22】</title>
+      <link>/blog/sofa-weekly-20191122/</link>
+      <pubDate>Fri, 22 Nov 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20191122/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【11/11 - 11/15】</title>
+      <link>/blog/sofa-weekly-20191115/</link>
+      <pubDate>Fri, 15 Nov 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20191115/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【11/04 - 11/08】</title>
+      <link>/blog/sofa-weekly-20191108/</link>
+      <pubDate>Fri, 08 Nov 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20191108/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【10/28 - 11/01】</title>
+      <link>/blog/sofa-weekly-20191101/</link>
+      <pubDate>Fri, 01 Nov 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20191101/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【10/21 - 10/25】</title>
+      <link>/blog/sofa-weekly-20191025/</link>
+      <pubDate>Fri, 25 Oct 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20191025/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级云</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【10/14 - 10/18】</title>
+      <link>/blog/sofa-weekly-20191018/</link>
+      <pubDate>Fri, 18 Oct 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20191018/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级云</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【10/7 - 10/11】</title>
+      <link>/blog/sofa-weekly-20191011/</link>
+      <pubDate>Fri, 11 Oct 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20191011/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【9/30 - 10/4】</title>
+      <link>/blog/sofa-weekly-20191004/</link>
+      <pubDate>Fri, 04 Oct 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20191004/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【9/23 - 9/27】</title>
+      <link>/blog/sofa-weekly-20190927/</link>
+      <pubDate>Fri, 27 Sep 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20190927/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【9/16 - 9/20】</title>
+      <link>/blog/sofa-weekly-20190920/</link>
+      <pubDate>Fri, 20 Sep 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20190920/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【9/9 - 9/13】</title>
+      <link>/blog/sofa-weekly-20190913/</link>
+      <pubDate>Thu, 12 Sep 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20190913/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【9/2 - 9/6】</title>
+      <link>/blog/sofa-weekly-20190906/</link>
+      <pubDate>Fri, 06 Sep 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20190906/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【8/26 - 8/30】</title>
+      <link>/blog/sofa-weekly-20190830/</link>
+      <pubDate>Fri, 30 Aug 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20190830/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【8/19 - 8/23】</title>
+      <link>/blog/sofa-weekly-20190823/</link>
+      <pubDate>Fri, 23 Aug 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20190823/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【8/12 - 8/16】</title>
+      <link>/blog/sofa-weekly-20190816/</link>
+      <pubDate>Fri, 16 Aug 2019 16:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20190816/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【8/5 - 8/9】</title>
+      <link>/blog/sofa-weekly-20190809/</link>
+      <pubDate>Fri, 09 Aug 2019 16:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20190809/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【7/29- 8/2】</title>
+      <link>/blog/sofa-weekly-20190802/</link>
+      <pubDate>Fri, 02 Aug 2019 16:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20190802/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>（含活动报名）SOFA Weekly | 每周精选【7/22 - 7/26】</title>
+      <link>/blog/sofa-weekly-20190726/</link>
+      <pubDate>Fri, 26 Jul 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20190726/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+    <item>
+      <title>SOFA Weekly | 每周精选【7/15 - 7/19】</title>
+      <link>/blog/sofa-weekly-20190719/</link>
+      <pubDate>Fri, 19 Jul 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofa-weekly-20190719/</guid>
+      <description>SOFA WEEKLY | 每周精选，筛选每周精华问答 同步开源进展，欢迎留言互动 SOFAStack（Scalable Open Financial Architecture Stack）是蚂蚁金服自主研发的金融级分</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,66 @@
+[slogan]
+	title = "Confidential Computing OCI Runtime"
+	description = "Inclavare™ Containers an open source project that initiated by Alibaba Cloud,  aims to bring Confidential Computing into cloud native ecosystem. Inclavare, is the Latin etymology of the word Enclave, is pronounced [ˈinklɑveə]."
+	quick_start_text = "Quick Start"
+	quick_start_link = "https://github.com/alibaba/inclavare-containers"
+	github_link = "https://github.com/alibaba/inclavare-containers"
+
+[[feature]]
+	title = "Open"
+	description = "Inclavare Containers is fully open-source, neutral community. The OCI runtime is compatible with the cloud native ecosystem, can be seamlessly integrated with Kubernetes and Docker."
+	img = "img/home/feat-open.png"
+
+
+[[feature]]
+	title = "Confidential Computing"
+	description = "Contains the components needed to build a financial-level cloud native architecture, which have been fully tempered in large-scale scenarios, especially harsh financial scenarios, thus enabling developers to focus more on service development and meeting the current and future needs of user scenarios."
+	img = "img/home/feat-financial-level.png"
+
+[[feature]]
+	title = "Cloud Native"
+	description = "Based on inclavare containers, you can quickly build a cloud-native microservice system and develop cloud-native applications that are more reliable, scalable, and easier to maintain."
+	img = "img/home/feat-cloud-native.png"
+
+
+[[charpter_description]]
+	title = "Architecture"
+	description = "Occlum：Occlum is a memory-safe, multi-process library OS (LibOS) for Intel SGX. Currently it's the default enclave runtime in rune.  Dragonwell：is a LTS OpenJDK implementation from Alibaba optimized for cloud,which can be running in LibOS.  Graphene：A Linux-compatible Library OS for Multi-Process Applications, Graphene supports native, unmodified Linux applications on any platform. Currently, Graphene runs on Linux and Intel SGX enclaves on Linux platforms.  SGX-device-plugin：is a Kubernetes Device Plugin powered by Alibaba Cloud and Ant Financial, it helps manage sgx devices and resource in kubernetes cluster and contral resource in containers, making it easier to run SGX applications inside a container."
+	img = "img/home/Inclavare_Containers.png"
+	img_width = "530px"
+
+[[charpter_description_1]]
+        title = "Integrated with Kubernetes"
+        description = "shim-rune resides in between containerd and rune, conducting enclave signing and management beyond the normal shim basis. shim-rune and rune can compose a basic enclave containerization stack for the cloud-native ecosystem."
+        img = "img/home/shim-rune.png"
+        img_width = "530px"
+
+[cloud_native]
+	title = "Cloud Native Architecture"
+	img = "img/home/cd-cloud-native-architecture.png"
+	img_width = "530px"
+
+[[cloud_native_sub]]
+	title = "Cloud Native Architecture"
+	description = "With the growth of business scale and system complexity, the traditional microservice management and operations becomes increasingly faster, and developers and operation personnel face multiple challenges. Some emerging concepts like Service Mesh and Serverless can resolve such problems."
+	img = "img/home/cd-cloud-native-architecture.png"
+	position = "INIT"
+
+[[cloud_native_sub]]
+	title = "Immutable Infrastructure"
+	description = "Immutable infrastructure is the practice of creating change through replacing rather than modifying."
+	position = "BL"
+
+[[cloud_native_sub]]
+	title = "Service Mesh"
+	description = "Service Mesh is a dedicated infrastructure layer for handling service-to-service communication."
+	position = "TL"
+
+[[cloud_native_sub]]
+	title = "Declarative API"
+	description = "We declare the final state of the system and the system will continue to drive to that state."
+	position = "BR"
+
+
+[subscription]
+	title = "Interested in receiving the latest SOFA news?"
+	button = "Subscribe"

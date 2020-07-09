@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>微服务 on SOFAStack</title>
+    <link>/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/</link>
+    <description>Recent content in 微服务 on SOFAStack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 17 Dec 2018 15:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>蚂蚁金服微服务实践- 2018 开源中国年终盛典分享实录</title>
+      <link>/blog/sofastack-oschina-2018/</link>
+      <pubDate>Mon, 17 Dec 2018 15:00:00 +0800</pubDate>
+      
+      <guid>/blog/sofastack-oschina-2018/</guid>
+      <description>章耿，花名余淮，蚂蚁金服高级技术专家。 2007 年毕业后一直从事服务化相关的工作，最早在国家电网做电子商务平台 SOA 化的工作，之后在京东负责京东的服务化</description>
+    </item>
+    
+  </channel>
+</rss>
